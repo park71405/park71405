@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=PARK&fontSize=90)
-<center>
-# Welcome 👋</center>
+<div align="center">
+# Welcome 👋
 
 ## 😄 Skill
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
@@ -32,3 +32,5 @@ Here are some ideas to get you started:
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=park71405)](https://github.com/park71405/github-readme-stats)
+
+</div>
