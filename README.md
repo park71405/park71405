@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=PARK&fontSize=90)
-<div align="center">
+
 # Welcome 👋
 
 ## 😄 Skill
@@ -29,8 +29,6 @@ Here are some ideas to get you started:
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
 
----
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=park71405)](https://github.com/park71405/github-readme-stats)
 
-</div>
+
