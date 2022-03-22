@@ -23,9 +23,10 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=black)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=black)](https://github.com/park71405/2021reproject2.git)
-[![C++](https://img.shields.io/badge/C++-A8B9CC?style=flat-square&logo=C%2B%2B&logoColor=black)](https://github.com/park71405/TIL.git)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+[![C++](https://img.shields.io/badge/C++-A8B9CC?style=flat-square&logo=C%2B%2B&logoColor=black)](https://github.com/park71405/TIL.git)
 
 ## ⚡ Tools ⚡
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=black)
