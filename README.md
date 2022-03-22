@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=black)
 
----
-
 ## 🌱 I’m currently learning ...
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
