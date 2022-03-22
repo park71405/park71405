@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 
 ## ⚡ Tools ⚡
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=black)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white)
 
