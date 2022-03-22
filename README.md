@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=PARK&fontSize=90)
-
+<center> 
 ### Hi 👋
 
 😄 Skill  <br>
@@ -30,3 +30,4 @@ Here are some ideas to get you started:
 🌱 I’m currently learning ...  <br>
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
+</center>
