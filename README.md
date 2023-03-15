@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=black)
 
 ### 🌱ETC
-![JAVA](https://img.shields.io/badge/JAVA-A8B9CC?style=flat-square%2B%2B&logoColor=black)(https://github.com/park71405/MOMOCO_Project.git)
+[![JAVA](https://img.shields.io/badge/JAVA-A8B9CC?style=flat-square%2B%2B&logoColor=black)](https://github.com/park71405/MOMOCO_Project.git)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
 [![C++](https://img.shields.io/badge/C++-A8B9CC?style=flat-square&logo=C%2B%2B&logoColor=black)](https://github.com/park71405/TIL.git)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=black)](https://github.com/park71405/2021reproject2.git)
