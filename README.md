@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ### 🛠형상관리
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=black)
-![SVN](https://img.shields.io/badge/SVN-#4E9BCDstyle=flat&logoColor=black)
+![SVN](https://img.shields.io/badge/SVN-%2300599C.svg?style=for-the-badge&logoColor=white)
 
 ### 🌱ETC
 [![JAVA](https://img.shields.io/badge/JAVA-A8B9CC?style=flat-square%2B%2B&logoColor=black)](https://github.com/park71405/MOMOCO_Project.git)
