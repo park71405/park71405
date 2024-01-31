@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 # Welcome 👋
 <img src="https://github-readme-stats.vercel.app/api?username=park71405&show_icons=true">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=park71405&layout=compact">
-
 <hr />
 
 ## 😄 Skill 😄   
