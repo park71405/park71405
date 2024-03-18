@@ -7,7 +7,6 @@
         <img src="https://img.shields.io/badge/jQuery-0769AD?&style=flat-square&logo=jQuery&logoColor=black"/>
         <img src="https://img.shields.io/badge/React-61DAFB?&style=flat-square&logo=React&logoColor=black"/>
         <img src="https://img.shields.io/badge/bootstrap-F7DF1E?&style=flat-square&logo=bootstrap&logoColor=black"/>
-        <img src="https://img.shields.io/badge/bootstrap-F7DF1E?&style=flat-square&logo=bootstrap&logoColor=black"/>
         <br/>
         <img src="https://img.shields.io/badge/Spring-6DB33F?&style=flat-square&logo=Spring&logoColor=black"/>
         <img src="https://img.shields.io/badge/Oracle-F80000?&style=flat-square&logo=Oracle&logoColor=white"/>
