@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=PARK&fontSize=90)
 
 <div align="center">
-    <h2>~ HAHAHA ~</h2>
+    <h3><a href="https://www.notion.so/park71403/8a7680c38ee9460ca6b59bcfc8e677aa" style="color:green">Go to Notion📌</a></h3>
+    <br>
     <p>
         <img src="https://img.shields.io/badge/JS-F7DF1E?&style=flat-square&logo=JavaScript&logoColor=black"/>
         <img src="https://img.shields.io/badge/jQuery-0769AD?&style=flat-square&logo=jQuery&logoColor=black"/>
@@ -37,5 +38,8 @@
         <img src="https://github-readme-stats.vercel.app/api?username=park71405&show_icons=true">
     </div>
 </div>
+
+<div align="center">
+
 
 <br/>
