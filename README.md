@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=PARK&fontSize=90)
 
 <div align="center">
     <h3><a href="https://www.notion.so/park71403/8a7680c38ee9460ca6b59bcfc8e677aa" style="color:green">Go to Notion📌</a></h3>
